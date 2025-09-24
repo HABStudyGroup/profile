@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on HAB (Hub a Blah&#39;st)</title>
+    <link>https://HABStudyGroup.github.io/profile/posts/</link>
+    <description>Recent content in Posts on HAB (Hub a Blah&#39;st)</description>
+    <image>
+      <title>HAB (Hub a Blah&#39;st)</title>
+      <url>https://HABStudyGroup.github.io/profile/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://HABStudyGroup.github.io/profile/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 26 Aug 2025 19:42:18 +0900</lastBuildDate>
+    <atom:link href="https://HABStudyGroup.github.io/profile/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📙第七回勉強共有会</title>
+      <link>https://HABStudyGroup.github.io/profile/posts/20250826/</link>
+      <pubDate>Tue, 26 Aug 2025 19:42:18 +0900</pubDate>
+      <guid>https://HABStudyGroup.github.io/profile/posts/20250826/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>📙第六回勉強共有会</title>
+      <link>https://HABStudyGroup.github.io/profile/posts/20250819/</link>
+      <pubDate>Tue, 26 Aug 2025 19:31:42 +0900</pubDate>
+      <guid>https://HABStudyGroup.github.io/profile/posts/20250819/</guid>
+      <description>&lt;h2 id=&#34;第6回勉強共有会&#34;&gt;第6回勉強共有会&lt;/h2&gt;
+&lt;h3 id=&#34;参加者&#34;&gt;参加者&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/akitek&#34;&gt;Akitek&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/soyster&#34;&gt;masamune&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/dozenkomeda&#34;&gt;shu_matsu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;紹介記事&#34;&gt;紹介記事&lt;/h3&gt;
+&lt;h4 id=&#34;1-echo-state-network-esn-ですって基礎編&#34;&gt;1. &lt;a href=&#34;https://zenn.dev/akitek/articles/11354dec203052&#34;&gt;Echo State Network (ESN) ですって【基礎編】&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Q1: 中間層（リザーバー層）が高次元特徴表現能力をもっているから, 学習部分が少なくても学習精度は維持されているという認識であっているか
+&lt;ul&gt;
+&lt;li&gt;A1: はい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q2: ハイパーパラメータのチューニングは大変？
+&lt;ul&gt;
+&lt;li&gt;A2: ハイパーパラメータの数は少ないが、調整にはコツがいる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2-多様体とは---位相幾何学&#34;&gt;2. &lt;a href=&#34;https://zenn.dev/soyster/articles/e1179bcb3c9aab&#34;&gt;多様体とは - 位相幾何学&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Q1: 何回も微分可能とはなんですか？
+&lt;ul&gt;
+&lt;li&gt;A1: 高々n回微分できる/偏微分&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q3: 多様体と宇宙力学の関係性
+&lt;ul&gt;
+&lt;li&gt;A3: 力の流れをもとに安定した多様体と不安定な多様体があって、安定している方が燃費型がよかった&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;3-正規化と写像rdb&#34;&gt;3. &lt;a href=&#34;https://zenn.dev/dozenkomeda/articles/c54b653c2f7c3d&#34;&gt;正規化と写像【RDB】&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Q1: PlantUMLとは？
+&lt;ul&gt;
+&lt;li&gt;A1: 描画ツール. スタイルをコーディングすればUMLをあわせて描画してくれる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q2: 初期のDB設計によっては正規化の&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;運営メモ&#34;&gt;運営メモ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;感想&#34;&gt;感想&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>📙第五回勉強共有会</title>
+      <link>https://HABStudyGroup.github.io/profile/posts/20250812/</link>
+      <pubDate>Tue, 12 Aug 2025 21:55:46 +0900</pubDate>
+      <guid>https://HABStudyGroup.github.io/profile/posts/20250812/</guid>
+      <description>&lt;h2 id=&#34;第五回勉強共有会&#34;&gt;第五回勉強共有会&lt;/h2&gt;
+&lt;h3 id=&#34;参加者&#34;&gt;参加者&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/akitek&#34;&gt;Akitek&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/soyster&#34;&gt;masamune&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/dozenkomeda&#34;&gt;shu_matsu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;紹介記事&#34;&gt;紹介記事&lt;/h3&gt;
+&lt;h4 id=&#34;1-多変量時系列予測の新展開-itransfomer-までの歴史まとめ&#34;&gt;1. &lt;a href=&#34;https://zenn.dev/akitek/articles/b4a62c49e821f5&#34;&gt;多変量時系列予測の新展開📈 iTransfomer までの歴史まとめ&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://tjo.hatenablog.com/entry/2023/10/21/185228&#34;&gt;「機械学習で時系列予測はできるのか」論議がTransformerと共に帰ってきた&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;時系列のバイアス，季節成分などの影響に分解して解析することが困難&lt;/li&gt;
+&lt;li&gt;Q: Transformer系の時系列モデルは、オンライン学習・データ同化みたいなのはできるのか
+&lt;ul&gt;
+&lt;li&gt;A:　いまの構造では多分無理. もう一度再学習する必要があるかも？　＝＞　調査してもよい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Reserver Computing(RC)というのがある
+&lt;ul&gt;
+&lt;li&gt;RNNの一種で、高速学習かつオンラインに対応できる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2-位相幾何学1オイラー標数&#34;&gt;2. &lt;a href=&#34;https://zenn.dev/soyster/articles/1ffb0bae09d198&#34;&gt;【位相幾何学#1　オイラー標数】&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Q: 球の場合はどのような計算式になる？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A: 球そのものではなく、正六面体などを内から膨らませたものとする。すると、オイラーの多面的定理が保存される&lt;/li&gt;
+&lt;li&gt;A: CGポリゴンのメッシュを細かくすると、滑らかな曲線にみえるが、そのメッシュの面、頂点、辺を計算するとオイラーの多面定理が保存される&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Q: オイラー票数を「分割する」というのと、穴を開けるというのはどのような関係が？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A：分割はメッシュの細かさ、穴はそのままの意味&lt;/li&gt;
+&lt;li&gt;例：&lt;a href=&#34;https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10208310540&#34;&gt;オイラーの多面体定理で成り立たないこの図形は、どのような図形なのでしょうか？？ &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Q: オイラー票数の使い方&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A: オイラー票数が同じだと、位相幾何学的に性質が同じなので、それを担保して、抽象的や具体的な議論に映る&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;3-dockerdiscordgoで自作discord-bot-&#34;&gt;3. &lt;a href=&#34;https://zenn.dev/dozenkomeda/articles/4375f37d9dfca5&#34;&gt;docker+discordgoで自作discord Bot ~環境構築編&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Q: func main()は一度きりの起動か？
+&lt;ul&gt;
+&lt;li&gt;A: 手続き型関数か、オブジェクト型関数の違い.前者は、コードをうえから辿ってしたまでいけば処理終了. オブジェクト型はそうじゃない.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q: 常にmainが動いていて, waitForExitSignal()が待機状態で動き続けている？
+&lt;ul&gt;
+&lt;li&gt;A: make(chan os.Signal, 1)がセッションをたてて待機している. sessionが切れると処理が進む（切断処理へ）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;運営メモ&#34;&gt;運営メモ&lt;/h2&gt;
+&lt;h2 id=&#34;感想&#34;&gt;感想&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>📗第四回勉強共有会</title>
+      <link>https://HABStudyGroup.github.io/profile/posts/20250729/</link>
+      <pubDate>Tue, 12 Aug 2025 20:09:08 +0900</pubDate>
+      <guid>https://HABStudyGroup.github.io/profile/posts/20250729/</guid>
+      <description>&lt;h2 id=&#34;第四回勉強共有会&#34;&gt;第四回勉強共有会&lt;/h2&gt;
+&lt;h3 id=&#34;参加者&#34;&gt;参加者&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/akitek&#34;&gt;Akitek&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/soyster&#34;&gt;masamune&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/dozenkomeda&#34;&gt;shu_matsu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;紹介記事&#34;&gt;紹介記事&lt;/h3&gt;
+&lt;h4 id=&#34;1-最近進めていることの紹介masamune&#34;&gt;1. &lt;a href=&#34;%E8%A8%98%E4%BA%8B%E3%81%AF%E6%9C%AA%E5%9F%B7%E7%AD%86&#34;&gt;最近進めていることの紹介(masamune)&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;読み物
+&lt;a href=&#34;https://www.amazon.co.jp/%E3%83%88%E3%83%9D%E3%83%AD%E3%82%B8%E3%83%BC%E3%81%B8%E3%81%AE%E8%AA%98%E3%81%84-%E6%96%B0%E8%A3%85%E7%89%88-%E5%A4%9A%E6%A7%98%E4%BD%93%E3%81%A8%E6%AC%A1%E5%85%83%E3%82%92%E3%82%81%E3%81%90%E3%81%A3%E3%81%A6-%E6%9D%BE%E6%9C%AC-%E5%B9%B8%E5%A4%AB/dp/4535789444&#34;&gt;トポロジーへの誘い&lt;/a&gt;
+・多様体は、物理現象として大学院時代に扱っていたのがきっかけ
+・トポロジーは身の回りにも。山手線は本当は円ではないなど。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.co.jp/%E7%90%86%E7%A7%91%E7%B3%BB%E3%81%AE%E4%BD%9C%E6%96%87%E6%8A%80%E8%A1%93-%E4%B8%AD%E5%85%AC%E6%96%B0%E6%9B%B8-624-%E6%9C%A8%E4%B8%8B-%E6%98%AF%E9%9B%84/dp/4121006240/&#34;&gt;理科系の作文技術&lt;/a&gt;
+・文学とは異なる、論文としての書き方を学ぶ&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.amazon.co.jp/%E7%8F%BE%E4%BB%A3%E6%95%B0%E7%90%86%E7%B5%B1%E8%A8%88%E5%AD%A6%E3%81%AE%E5%9F%BA%E7%A4%8E-%E5%85%B1%E7%AB%8B%E8%AC%9B%E5%BA%A7-%E6%95%B0%E5%AD%A6%E3%81%AE%E9%AD%85%E5%8A%9B-%E4%B9%85%E4%BF%9D%E5%B7%9D-%E9%81%94%E4%B9%9F/dp/4320111664/&#34;&gt;現代数理統計学の基礎&lt;/a&gt;
+・この前紹介してくれたやつ&lt;/p&gt;
+&lt;h4 id=&#34;2-仮想化技術の調査shu_&#34;&gt;2. &lt;a href=&#34;&#34;&gt;仮想化技術の調査(shu_matsu)&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/broccoli07/items/cae9e611c06b018701fc&#34;&gt;仮想化について-Qiita&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ohitori.fun/entry/what-is-abstraction-in-computer-science&#34;&gt;コンピュータ科学における抽象化とは何か&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Q. 抽象化は最近の概念？&lt;/li&gt;
+&lt;li&gt;A. NO！　計算機科学の根底にある通念で、ネットワークやクラウド、APIなどにも共通している&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://qiita.com/shinkai_/items/486f8b75d5904752842e&#34;&gt;今さら聞けないコンテナとは-Qiita&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Q. クラウドとコンテナの違いは？&lt;/li&gt;
+&lt;li&gt;A. 抽象化のレベルの違い
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://business.ntt-east.co.jp/content/cloudsolution/column-463.html&#34;&gt;AWSの責任共有モデルとは？事業者とユーザーの責任範囲や必要な情報セキュリティ対策を解説&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;3-読切めっためたにメタ学習&#34;&gt;3. &lt;a href=&#34;https://zenn.dev/akitek/articles/0664f332355cd1&#34;&gt;【読切】めっためたにメタ学習&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;運営メモ&#34;&gt;運営メモ&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>📙第三回勉強共有会</title>
+      <link>https://HABStudyGroup.github.io/profile/posts/20250725/</link>
+      <pubDate>Sun, 27 Jul 2025 13:21:32 +0900</pubDate>
+      <guid>https://HABStudyGroup.github.io/profile/posts/20250725/</guid>
+      <description>&lt;h2 id=&#34;第三回勉強共有会&#34;&gt;第三回勉強共有会&lt;/h2&gt;
+&lt;h3 id=&#34;参加者&#34;&gt;参加者&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/akitek&#34;&gt;Akitek&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/soyster&#34;&gt;masamune&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/dozenkomeda&#34;&gt;shu_matsu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;紹介記事&#34;&gt;紹介記事&lt;/h3&gt;
+&lt;h4 id=&#34;1-アニメーションツールmanimの紹介&#34;&gt;1. &lt;a href=&#34;https://zenn.dev/soyster/articles/9812b4456cd7b5&#34;&gt;アニメーションツール「Manim」の紹介&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;3Blue1Brown&amp;quot;で使用されている数学可視化ツール&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;self.add&lt;/code&gt;で静図, &lt;code&gt;self.play&lt;/code&gt;でアニメーションをつくる&lt;/li&gt;
+&lt;li&gt;Q1: &lt;code&gt;def construct&lt;/code&gt;が実行部
+&lt;ul&gt;
+&lt;li&gt;A1: &lt;code&gt;def construct&lt;/code&gt;のなかに各種のアニメーション要素を入れて実行している&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q2: 一アニメーションごとにクラスを定義するのか
+&lt;ul&gt;
+&lt;li&gt;A2: おそらくそう&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;一般的な人は興味をもたないだろうか？&lt;/li&gt;
+&lt;li&gt;動画で表示するのは珍しいかも, 関数表示ソフトはたくさん&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2-時空間データと確率場の勉強&#34;&gt;2. &lt;a href=&#34;https://zenn.dev/dozenkomeda/articles/20a9e6f38cef16&#34;&gt;時空間データと確率場の勉強&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Q1: 場所に依存しない, ってこと？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A1: 観測地点間の距離だけで分布が決定する&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Q2: Zh(s)はSにのみ依存するのか？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A2: hを固定した状態で(二つの観測地点間の距離）で、ある観測地点（S)の状態を表現している&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Q3: 未観測地点のデータを予測する上で使用するのか&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A3: Zh(S)が決まれば, 未観測地点(s&amp;rsquo;)に対し, 観測地点(s)からの距離hが判明すれば, 未観測地点(s&amp;rsquo;)での観測値を推定できる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;UAVを用いた3次元確率場の予測&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;3-prompt-engineering-guideで体系的に学ぶllmプロンプトエンジニアリング&#34;&gt;3. &lt;a href=&#34;https://zenn.dev/akitek/articles/36b8bf5ba4af4b&#34;&gt;【Prompt Engineering Guide】で体系的に学ぶ　LLMプロンプトエンジニアリング①&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;メタ学習ってなんで成り立っているのか？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;感想&#34;&gt;感想&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>📘第二回勉強共有会</title>
+      <link>https://HABStudyGroup.github.io/profile/posts/20250715/</link>
+      <pubDate>Tue, 15 Jul 2025 22:51:01 +0900</pubDate>
+      <guid>https://HABStudyGroup.github.io/profile/posts/20250715/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;第二回勉強共有会&#34;&gt;第二回勉強共有会&lt;/h2&gt;
+&lt;h3 id=&#34;参加者&#34;&gt;参加者&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/akitek&#34;&gt;Akitek&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/soyster&#34;&gt;masamune&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/dozenkomeda&#34;&gt;shu_matsu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;紹介記事&#34;&gt;紹介記事&lt;/h3&gt;
+&lt;h4 id=&#34;1-llm搭載エージェント共に気候問題を議論させる&#34;&gt;1. LLM搭載エージェント共に気候問題を議論させる&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;ローカルLLM(Ollama)搭載のAgent同士で、議論をさせる&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;記憶や性格を個別に監理することで，複数のAgentを同時に管理可能&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Q1: Ollama は　MCPみたいなはなし？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/kazuwombat/articles/d8789724f10092&#34;&gt;https://zenn.dev/kazuwombat/articles/d8789724f10092&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;APIの入力をLLMで整形する&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Q2: LLMってそんなに軽いの？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Q3: 人間が間に入って処理を介入&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A3: いまはそういうのはできていないが、技術的には簡単に実現できる&lt;/li&gt;
+&lt;li&gt;人が議論に入りたくなるのでは、&lt;/li&gt;
+&lt;li&gt;会話のログを入れたらよいのでは？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Q4: LLMの性格は「自然言語」でやっているのはなぜか？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A4: ローカルLLMとは「テキスト」の入出力にしか対応していない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2-課外技術ブログ1ラジオ制作&#34;&gt;2. &lt;a href=&#34;https://zenn.dev/soyster/articles/dd9a5b4668279a&#34;&gt;【課外技術ブログ#1】ラジオ制作&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Q1: 学生時代に作っていたのは？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A1: 学生時代には衛星関係の&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Q2: 周波数ごとに振幅を増幅させている理由は？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A2:&lt;/li&gt;
+&lt;li&gt;AMは周波数の変化で0/1を作るが、&lt;/li&gt;
+&lt;li&gt;一回低周波にして、感度はよくなる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Q3: オリジナルの波を、狙った音声を取り出せるように周波数を増幅させたり、分解している&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A3: AM変調だからシンプル&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Q4: ラジオはなにをきくのか&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A4: 霜降り、オールナイトニッポン、&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://scrapbox.io/craftmemo/Python&#34;&gt;https://scrapbox.io/craftmemo/Python&lt;/a&gt;_で_離散フーリエ変換&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>📕第一回勉強共有会</title>
+      <link>https://HABStudyGroup.github.io/profile/posts/20250707/</link>
+      <pubDate>Tue, 08 Jul 2025 23:15:31 +0900</pubDate>
+      <guid>https://HABStudyGroup.github.io/profile/posts/20250707/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;第一回勉強共有会&#34;&gt;第一回勉強共有会&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;日時： 【2025-07-07 18:00 - 20:00】&lt;/li&gt;
+&lt;li&gt;場所:　Discord /　オンライン&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;参加者&#34;&gt;参加者&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/akitek&#34;&gt;Akitek&lt;/a&gt; :&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/soyster&#34;&gt;masamune&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/dozenkomeda&#34;&gt;shu_matsu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;紹介記事&#34;&gt;紹介記事&lt;/h3&gt;
+&lt;h4 id=&#34;1-読書意識はなぜ生まれたのか-その起源から人工意識まで&#34;&gt;1. &lt;a href=&#34;https://zenn.dev/akitek/articles/8a24f153839e8f&#34;&gt;【読書】「意識はなぜ生まれたのか その起源から人工意識まで」&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Q1:「意識」&lt;/li&gt;
+&lt;li&gt;Q2:「感覚器官」の視覚レイヤーの4次について、&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2-宇宙軌道力学に関する備忘録1背景について&#34;&gt;2. &lt;a href=&#34;https://zenn.dev/soyster/articles/99f52614ca37f3&#34;&gt;【宇宙軌道力学に関する備忘録#1】背景について&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Q1: 円制限三体問題の衛星には推進力は考慮しない
+&lt;ul&gt;
+&lt;li&gt;A1: 最初は考えずにする&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q2: 重みは分かっているのか?
+&lt;ul&gt;
+&lt;li&gt;A2: 分かっている&lt;/li&gt;
+&lt;li&gt;位置(3次元）と速度(3次元）をひとつの球体に求める&lt;/li&gt;
+&lt;li&gt;2体問題だと、自由度が12(6+6)
+&lt;ul&gt;
+&lt;li&gt;なおかつ、相対問題に帰着できる（自由度を減らせる）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;3体問題だと、自由度が18 &amp;gt; 制約条件は10&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q3: ５体以上は考えない、４体もレア
+&lt;ul&gt;
+&lt;li&gt;A3: ４体（太陽、月、地球、衛星）だが、ほとんどの場合、太陽を考慮すると月の存在は無視できるので、３体にしてしまうことが多い&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q4: 宇宙軌道力学の研究領域の新規性にはどういうものがある
+&lt;ul&gt;
+&lt;li&gt;A4: ミッションに対して、「このような軌道を達成するように、このようなモデル・変数を加えます. このような挙動が大事ですよね」が新規性になる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;3-不偏標本分散について&#34;&gt;3. &lt;a href=&#34;https://zenn.dev/dozenkomeda/articles/e7905972aadb73&#34;&gt;不偏標本分散について&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;「&lt;a href=&#34;https://www.amazon.co.jp/%E7%8F%BE%E4%BB%A3%E6%95%B0%E7%90%86%E7%B5%B1%E8%A8%88%E5%AD%A6%E3%81%AE%E5%9F%BA%E7%A4%8E-%E5%85%B1%E7%AB%8B%E8%AC%9B%E5%BA%A7-%E6%95%B0%E5%AD%A6%E3%81%AE%E9%AD%85%E5%8A%9B-%E4%B9%85%E4%BF%9D%E5%B7%9D-%E9%81%94%E4%B9%9F/dp/4320111664/&#34;&gt;現代数理統計学の基礎&lt;/a&gt;」の本がおすすめ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;運営メモ&#34;&gt;運営メモ&lt;/h2&gt;
+&lt;h3 id=&#34;discord周りの話&#34;&gt;Discord周りの話&lt;/h3&gt;
+&lt;h4 id=&#34;フォーラムチャンネルとは&#34;&gt;フォーラムチャンネルとは？&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;teamsの「投稿」みたいな&lt;/li&gt;
+&lt;li&gt;チャンネル「#」で埋もれそうなテーマは「フォーラムチャンネル」に移動して話をすすめる 😇&lt;/li&gt;
+&lt;li&gt;「フォーラム」のなかで返信しないと、そのユーザーに通知が届かない
+&lt;ul&gt;
+&lt;li&gt;そういう意味で、ブロードキャスト型ではないので、そういう全員通知したい場合は、チャンネル「#」を使うとよい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;カテゴリ&#34;&gt;カテゴリ&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;「運営」「一般」のように、上位概念として「権限」をつけたりできる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;タイムライン&#34;&gt;タイムライン&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;最初5分: 全体アナウンス&lt;/li&gt;
+&lt;li&gt;発表セッション：
+&lt;ul&gt;
+&lt;li&gt;発表： 5分&lt;/li&gt;
+&lt;li&gt;Q&amp;amp;A: 10分&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;感想5分&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;感想&#34;&gt;感想&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>
