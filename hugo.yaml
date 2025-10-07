@@ -77,9 +77,9 @@ params:
     Content: >
       👋 Hub a Blah'st (HAB) へようこそ！！
 
-      - 現在、サイトを準備中です 😇
+      - 本勉強共有コミュニティへの参加に興味のある方は　上タブ　”Handson"をご参照ください
 
-      - それまでは過去の議事録を参照してください！！
+      - 過去の活動については、議事録(archives)を参照してください！！
 
   socialIcons: # ホーム画面に表示する各種サービスアイコン
     # - name: x
@@ -129,26 +129,26 @@ menu:
       name: about
       url: about/
       weight: 10
+    - identifier: handson
+      name: handson
+      url: handson/
+      weight: 11
     - identifier: member
       name: member
       url: member/
-      weight: 11
+      weight: 12
     - identifier: search
       name: search
       url: search/
-      weight: 12
+      weight: 13
     - identifier: tags
       name: tags
       url: tags/
-      weight: 13
+      weight: 14
     - identifier: archives
       name: archives
       url: archives/
-      weight: 14
-    # - identifier: example
-    #   name: example.org
-    #   url: https://example.org
-    #   weight: 30
+      weight: 15
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
