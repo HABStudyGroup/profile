@@ -149,6 +149,7 @@ menu:
       name: archives
       url: archives/
       weight: 15
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
