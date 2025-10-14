@@ -11,8 +11,77 @@
     </image>
     <generator>Hugo -- 0.147.9</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 07 Oct 2025 23:00:24 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 23:41:29 +0900</lastBuildDate>
     <atom:link href="https://HABStudyGroup.github.io/profile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📚第八回勉強共有会</title>
+      <link>https://HABStudyGroup.github.io/profile/posts/20251014/</link>
+      <pubDate>Tue, 14 Oct 2025 23:41:29 +0900</pubDate>
+      <guid>https://HABStudyGroup.github.io/profile/posts/20251014/</guid>
+      <description>&lt;h2 id=&#34;第８回勉強共有会&#34;&gt;第８回勉強共有会&lt;/h2&gt;
+&lt;h3 id=&#34;参加者&#34;&gt;参加者&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/akitek&#34;&gt;Akitek&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/soyster&#34;&gt;masamune&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/dozenkomeda&#34;&gt;shu_matsu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;紹介記事&#34;&gt;紹介記事&lt;/h3&gt;
+&lt;h4 id=&#34;1-テンポラルネットワークを味わう---時間変化を考慮したネットワークとは&#34;&gt;1. &lt;a href=&#34;https://zenn.dev/akitek/articles/31cf7ac40f3e11&#34;&gt;テンポラル・ネットワークを味わう - 時間変化を考慮したネットワークとは？&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Q1: 時間は離散？連続？
+&lt;ul&gt;
+&lt;li&gt;簡単にやるなら離散でまず扱っている&lt;/li&gt;
+&lt;li&gt;分析したい人（確率分布）と、モデル化したい人（確率過程）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q2: テンポラル・ネットワークの方が良いということ？
+&lt;ul&gt;
+&lt;li&gt;テンポラル・ネットワークは時間を意識した効率的なモデルを実現可能。&lt;/li&gt;
+&lt;li&gt;他方で、もれなく探索したいような例だと、総計ネットワークの方が確実かもしれない。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2-測度確率ルベーグ積分2章勉強メモ&#34;&gt;2. &lt;a href=&#34;https://zenn.dev/dozenkomeda/articles/189c5a91bbdbf0&#34;&gt;測度・確率・ルベーグ積分　2章　勉強メモ&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Q1: サイコロの場合は図は階段状になる？
+&lt;ul&gt;
+&lt;li&gt;階段状になるが、それ以外の形でも、定義にあっていれば何でも良い（測度論;確率論の立場から）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q2: リーマン積分との違いは？
+&lt;ul&gt;
+&lt;li&gt;リーマン積分だと、横軸が連続でないといけない. 不連続関数だと計算ができなくなってくる.&lt;/li&gt;
+&lt;li&gt;株価のチャート&lt;/li&gt;
+&lt;li&gt;階段状の分布など、開空間の定義域の場合、計算できない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;3-physics-informed-machine-learning-に関する調査と知見&#34;&gt;3. &lt;a href=&#34;https://zenn.dev/soyster/articles/490705dfb65b1e&#34;&gt;Physics-informed machine learning に関する調査と知見&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Q1: PDEのロス関数の役割は？
+&lt;ul&gt;
+&lt;li&gt;入力に対し出力を予測する学習モデルに加え, 物理モデルの制約（等式）を考慮した予測誤差をくわえる&lt;/li&gt;
+&lt;li&gt;物理モデルを考慮する(physics-informed)ことで、複雑な物理モデルを高速かつ近似的に解けるようにする&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q2: PDE内の式を別ドメイン（別の物理式・モデル）に適用するのは容易？
+&lt;ul&gt;
+&lt;li&gt;他のモデルでも大丈夫&amp;hellip;のはず&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q3: 解析的に解けない場合のみにつかったほうがよい？
+&lt;ul&gt;
+&lt;li&gt;解析的に解けない場合や、解けるけど時間がかかる問題(初期値問題)への適用可能性あり。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;運営メモ&#34;&gt;運営メモ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GA4と活動サイトの連携&lt;/li&gt;
+&lt;li&gt;連絡用メールアドレスの作成済み&lt;/li&gt;
+&lt;li&gt;Discord内のロールの変更&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>📙第七回勉強共有会</title>
       <link>https://HABStudyGroup.github.io/profile/posts/20250930/</link>
@@ -40,12 +109,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;3&#34;&gt;3. &lt;a href=&#34;&#34;&gt;&lt;/a&gt;&lt;/h4&gt;
-&lt;h2 id=&#34;運営メモ&#34;&gt;運営メモ&lt;/h2&gt;
-&lt;h2 id=&#34;感想&#34;&gt;感想&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;h2 id=&#34;運営メモ&#34;&gt;運営メモ&lt;/h2&gt;</description>
     </item>
     <item>
       <title>💻 活動参加ハンズオン</title>
