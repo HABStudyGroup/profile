@@ -11,8 +11,79 @@
     </image>
     <generator>Hugo -- 0.147.9</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 14 Oct 2025 23:41:29 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 22:31:26 +0900</lastBuildDate>
     <atom:link href="https://HABStudyGroup.github.io/profile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📖第九回勉強共有会</title>
+      <link>https://HABStudyGroup.github.io/profile/posts/20251021/</link>
+      <pubDate>Tue, 21 Oct 2025 22:31:26 +0900</pubDate>
+      <guid>https://HABStudyGroup.github.io/profile/posts/20251021/</guid>
+      <description>&lt;h2 id=&#34;第9回勉強共有会&#34;&gt;第9回勉強共有会&lt;/h2&gt;
+&lt;h3 id=&#34;参加者&#34;&gt;参加者&lt;/h3&gt;
+&lt;h4 id=&#34;発表者&#34;&gt;発表者&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/akitek&#34;&gt;Akitek&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/soyster&#34;&gt;masamune&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/dozenkomeda&#34;&gt;shu_matsu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;聴講&#34;&gt;聴講&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;cokey&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;紹介記事&#34;&gt;紹介記事&lt;/h3&gt;
+&lt;h4 id=&#34;1-円制限三体問題2&#34;&gt;1. &lt;a href=&#34;https://zenn.dev/soyster/articles/1f1d0b41dc8f7f&#34;&gt;円制限三体問題#2&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Q1: &amp;ldquo;BaryCenter&amp;quot;の意味は？
+&lt;ul&gt;
+&lt;li&gt;二つの球体m1,m2の重心位置で, r1とr2はそれぞれ質量に比率している&lt;/li&gt;
+&lt;li&gt;なので無次元化すると, R1,R2, M1,M2は同じμを使って示せる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q2: 自励系の意味は？
+&lt;ul&gt;
+&lt;li&gt;簡単にいえば, 二つの球体が, それら以外からの外力がなくとも自律的に移動し続ける.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q3: 三体問題の考え方をN体問題に拡張することができるのか?
+&lt;ul&gt;
+&lt;li&gt;３体問題, それも最後の球体の質量が無視できる, という仮定がなりたたないと難しい&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q4: 地球と太陽の初期値はわかる？（わかっている？）
+&lt;ul&gt;
+&lt;li&gt;座標系を、実質地球と太陽は動いてないとみなせるようにする&lt;/li&gt;
+&lt;li&gt;地球と太陽を結んだ上で、第三球体を見る.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2-測度確率ルベーグ積分2章勉強メモ-の補足&#34;&gt;2. &lt;a href=&#34;https://zenn.dev/dozenkomeda/articles/189c5a91bbdbf0&#34;&gt;測度・確率・ルベーグ積分　2章　勉強メモ&lt;/a&gt; の補足&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Q1: 紹介してくれたグラフの縦軸と横軸とは何か？
+&lt;ul&gt;
+&lt;li&gt;株価の例で言えば、縦軸は株価で、横軸が時間を示す。ルベーグ積分だと、離散的に株価をとる場合の積分ができて、確率を定義可能。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;3-操作変数法と２段階最小二乗法---知らないものは知らないを通す&#34;&gt;3. &lt;a href=&#34;https://zenn.dev/akitek/articles/72acbf42ac804a&#34;&gt;操作変数法と２段階最小二乗法 - 知らないものは知らないを通す&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Q1: 変数Zは試行錯誤的に決めているのか？
+&lt;ul&gt;
+&lt;li&gt;試行錯誤的に決めていて、変数Zがどの程度妥当かどうかを決める指標なども存在する?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q2: 疑似相関，隠れ状態モデルとは違う？
+&lt;ul&gt;
+&lt;li&gt;どちらも少し違う．疑似相関は誤った矢印に別の原因が存在するものであり，隠れ状態モデルは従属変数の中身の話．&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;運営メモ&#34;&gt;運営メモ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;運営事務用のチャンネルを開設&lt;/li&gt;
+&lt;li&gt;自己紹介チャネルの活用&lt;/li&gt;
+&lt;li&gt;新規メンバーへの説明Handson&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>📚第八回勉強共有会</title>
       <link>https://HABStudyGroup.github.io/profile/posts/20251014/</link>
