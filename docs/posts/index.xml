@@ -11,8 +11,73 @@
     </image>
     <generator>Hugo -- 0.147.9</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 21 Oct 2025 22:31:26 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 23:37:59 +0900</lastBuildDate>
     <atom:link href="https://HABStudyGroup.github.io/profile/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🎉第十回勉強共有会</title>
+      <link>https://HABStudyGroup.github.io/profile/posts/20251029/</link>
+      <pubDate>Wed, 29 Oct 2025 23:37:59 +0900</pubDate>
+      <guid>https://HABStudyGroup.github.io/profile/posts/20251029/</guid>
+      <description>&lt;h2 id=&#34;第-10-回勉強共有会&#34;&gt;第 10 回勉強共有会&lt;/h2&gt;
+&lt;h3 id=&#34;参加者&#34;&gt;参加者&lt;/h3&gt;
+&lt;h4 id=&#34;発表者&#34;&gt;発表者&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/cokey&#34;&gt;cokey&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/akitek&#34;&gt;Akitek&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;聴講&#34;&gt;聴講&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/soyster&#34;&gt;masamune&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/dozenkomeda&#34;&gt;shu_matsu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;紹介記事&#34;&gt;紹介記事&lt;/h3&gt;
+&lt;h4 id=&#34;1-&#34;&gt;1. &lt;a href=&#34;https://zenn.dev/cokey/articles/6b98e94a457caa&#34;&gt;[AIと経済学]でもっとよくなる保育政策からはじめるマーケットデザイン&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Q1:オークション理論とマッチング理論は, 多対多か、１対多の関係？
+&lt;ul&gt;
+&lt;li&gt;関係性の話というよりは、オークション理論は金額づけの話&lt;/li&gt;
+&lt;li&gt;実際のオークションのような, １対多の関係は, この枠組みではマッチング理論&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://recruit.gmo.jp/engineer/jisedai/blog/auction_theory_basic/&#34;&gt;エンジニアにこそ知ってほしい経済学〜オークション理論基礎編〜&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q2: マーケットデザインは, いわゆる、受け入れ方式のルールに近い？
+&lt;ul&gt;
+&lt;li&gt;もっと広義の定義で, マーケットデザインのhowの部分が受け入れ方式の設計&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q3: 各方式の良し悪しは、定量的に比較されているのか？あるいは、評価用のベンチマークセットのようなものはある？
+&lt;ul&gt;
+&lt;li&gt;何らかのテストケースに対して, 合理性・公平性・非浪費性を０,１で評価し、結構ばっさりと, 評価してしまう.&lt;/li&gt;
+&lt;li&gt;「何%公平性が高まりました！」みたいな定量的な比較はしない&amp;hellip;?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q4: 良いアルゴリズムがあっても自治体が受け入れるのはいるのかなぁ？
+&lt;ul&gt;
+&lt;li&gt;改善要望がないと自治体は動かないのではないか？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q5: (感想)不動産や学校など、汎用性のあるアルゴリズムが求められていそう&lt;/li&gt;
+&lt;li&gt;Q6: 公平性の部分で言及されている優先指数は静的&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2-nvidiaジャパニーズペルソナに対しバーチャルインタビューollama&#34;&gt;2. &lt;a href=&#34;https://zenn.dev/akitek/articles/c6e1885ce6e696&#34;&gt;【Nvidia】ジャパニーズペルソナに対しバーチャルインタビュー【Ollama】&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Q1: この内容の発見契機と興味内容は？
+&lt;ul&gt;
+&lt;li&gt;社内での情報共有で、日本人の文化背景をとらえたエージェントをつくりたかった&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q2: (議論)ペルソナデータの生成方法は？
+&lt;ul&gt;
+&lt;li&gt;1つのやり方として、分布からタグを生成し、LLMで文章を生成している&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;運営メモ&#34;&gt;運営メモ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;画面共有の権限付与 / 今後のロール格上げ問題&lt;/li&gt;
+&lt;li&gt;10回目到達記念ポストの予定&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>📖第九回勉強共有会</title>
       <link>https://HABStudyGroup.github.io/profile/posts/20251021/</link>
