@@ -11,8 +11,121 @@
     </image>
     <generator>Hugo -- 0.147.9</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Wed, 29 Oct 2025 23:37:59 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 23:18:35 +0900</lastBuildDate>
     <atom:link href="https://HABStudyGroup.github.io/profile/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📖第十一回勉強共有会</title>
+      <link>https://HABStudyGroup.github.io/profile/posts/20251104/</link>
+      <pubDate>Tue, 04 Nov 2025 23:18:35 +0900</pubDate>
+      <guid>https://HABStudyGroup.github.io/profile/posts/20251104/</guid>
+      <description>&lt;h2 id=&#34;第-11-回勉強共有会&#34;&gt;第 11 回勉強共有会&lt;/h2&gt;
+&lt;h3 id=&#34;参加者&#34;&gt;参加者&lt;/h3&gt;
+&lt;h4 id=&#34;発表者&#34;&gt;発表者&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/soyster&#34;&gt;masamune&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/dozenkomeda&#34;&gt;shu_matsu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;聴講者&#34;&gt;聴講者&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/akitek&#34;&gt;Akitek&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;紹介記事&#34;&gt;紹介記事&lt;/h3&gt;
+&lt;h4 id=&#34;1-深層学習時のデータ構造変化をトポロジーの側面から考える&#34;&gt;1. &lt;a href=&#34;https://zenn.dev/soyster/articles/8118cc9317ba74&#34;&gt;深層学習時のデータ構造変化をトポロジーの側面から考える&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Q1: kベッチ数でいう, 「0次元の基本サイクルとは」なんですか
+&lt;ul&gt;
+&lt;li&gt;０次元は「点」、１次元は「円」、２次元は「球」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q2: ベッチ数が小さくなるということは、どのような意味合い？（わかりやすく分類できているということ？）
+&lt;ul&gt;
+&lt;li&gt;ベッチ数は、データ構造の複雑性にかかっている. カッコ()の中の数字が小さいほど、データ構造がシンプルになっている.&lt;/li&gt;
+&lt;li&gt;ベッチ数はあくまでも構造体の話で、それをデータ構造の複雑性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q3: ベッチ数という指標をもちいて, 機械学習（NN)の処理過程を可視化することで、どのようなインサイトを得られる？
+&lt;ul&gt;
+&lt;li&gt;「ReLUのほうがArctanhを使った方がよい」といういままでのノウハウ的な、経験値的な状態から、ベッチ数を用いて定量的に「活性化関数の良さ」を評価できるようになる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q4: この論文の知見を使えば, よい機械学習（NN)の設計が見出せる？
+&lt;ul&gt;
+&lt;li&gt;Q3に同じく,&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q5: k次元のベッチ数はk次元のベクトルの抽象概念？k=1のC_1, C_2 は（カーネルの）座標軸の抽象概念？
+&lt;ul&gt;
+&lt;li&gt;イメージとしては正しい．座標を表現する軸の抽象化の集合&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q6: 「浅い層ではトポロジーの位相が同型になるように写像し、深い層では位相変化の起こるような写像を行う」というのは非線形関数の線形近似の抽象概念？
+&lt;ul&gt;
+&lt;li&gt;直感的にはあってそう&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q7: この話とカーネルトリックの関係は？
+&lt;ul&gt;
+&lt;li&gt;ReLUは写像として非対称？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q8 (議論) : 距離や、「近い」の概念は位相空間では定義が難しく、学習で暗示的に決めている。&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2-discord-ボイスチャットで遊んでみた&#34;&gt;2. &lt;a href=&#34;https://zenn.dev/dozenkomeda/articles/54c50ba3163f17&#34;&gt;discord ボイスチャットで遊んでみた&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Q1: Discordからの処理フローを考えたく, Discordから&lt;code&gt;VoiceConnection&lt;/code&gt;のデータを取り出す？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;VoiceConnection&lt;/code&gt;でコネクションを確立しつつ、送信内容は「&lt;code&gt;OpusSend&lt;/code&gt;」や「&lt;code&gt;OpusRecv&lt;/code&gt;」を再生成・書き直している.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Q2: Opus形式にするのは必要な操作？圧縮はどうしても必要なのか？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;どうしても必要な操作ではないが、エンコードやデコードの確認のため。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Q3: WhisperとRTCの関係は？RTC→Whisperで日本語等に解釈？（再確認）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Opus形式のアウトプットを、波形情報に変換(decode)して、whisperで文字認識させる流れ。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Q4: 双方向通信は　単回線をどう使っている&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;かなり前からある（黒電話）&lt;/li&gt;
+&lt;li&gt;いわゆる「リアルタイム」ではない双方向通信というのは、毎回セッションは&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Q5: Discordは「特別な」RTCを使っている？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ふつうのTCPの上に成り立っている&lt;/li&gt;
+&lt;li&gt;他は秘匿されているのでみえない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Q6: 同じ「RTC」でも、Discordの優位性が高いのはどのような差別化要因がある？&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;圧縮のほうほう, 送信するデータの工夫など,,,&lt;/li&gt;
+&lt;li&gt;全体的に特段ないが、アーキテクチャなどの耐障害性は優れていいるのかと&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;運営メモ&#34;&gt;運営メモ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ボイスチャットの制約&lt;/li&gt;
+&lt;li&gt;人数増大した場合の運営方法
+&lt;ul&gt;
+&lt;li&gt;例：それぞれのボイスチャネルをポスターセッションのようにする&lt;/li&gt;
+&lt;li&gt;上の方法の場合は、事前に発表者を決めておく必要がある？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;「誰でも呼ぶ」というよりは、「話を聞いてみたい人を呼ぶ」スタイル(聞くだけの人より、話してみたい人の方がいいか？)&lt;/li&gt;
+&lt;li&gt;寄稿ポストの雛形とテーマ&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>🎉第十回勉強共有会</title>
       <link>https://HABStudyGroup.github.io/profile/posts/20251029/</link>
@@ -20,7 +133,7 @@
       <guid>https://HABStudyGroup.github.io/profile/posts/20251029/</guid>
       <description>&lt;h2 id=&#34;第-10-回勉強共有会&#34;&gt;第 10 回勉強共有会&lt;/h2&gt;
 &lt;h3 id=&#34;参加者&#34;&gt;参加者&lt;/h3&gt;
-&lt;h4 id=&#34;発表者&#34;&gt;発表者&lt;/h4&gt;
+&lt;h4 id=&#34;発表者4&#34;&gt;発表者4&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://zenn.dev/cokey&#34;&gt;cokey&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://zenn.dev/akitek&#34;&gt;Akitek&lt;/a&gt;&lt;/li&gt;
