@@ -11,8 +11,92 @@
     </image>
     <generator>Hugo -- 0.147.9</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 04 Nov 2025 23:18:35 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 22:18:56 +0900</lastBuildDate>
     <atom:link href="https://HABStudyGroup.github.io/profile/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📖第十二回勉強共有会</title>
+      <link>https://HABStudyGroup.github.io/profile/posts/20251118/</link>
+      <pubDate>Tue, 18 Nov 2025 22:18:56 +0900</pubDate>
+      <guid>https://HABStudyGroup.github.io/profile/posts/20251118/</guid>
+      <description>&lt;h2 id=&#34;第-12-回勉強共有会&#34;&gt;第 12 回勉強共有会&lt;/h2&gt;
+&lt;h3 id=&#34;参加者&#34;&gt;参加者&lt;/h3&gt;
+&lt;h4 id=&#34;発表者&#34;&gt;発表者&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/teyo0318&#34;&gt;TEYO0318&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/akitek&#34;&gt;Akitek&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;聴講者&#34;&gt;聴講者&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/soyster&#34;&gt;masamune&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/dozenkomeda&#34;&gt;shu_matsu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;紹介記事&#34;&gt;紹介記事&lt;/h3&gt;
+&lt;h4 id=&#34;1-pythonにおけるデータ分析の軽量化ライブラリ拡張子の紹介データ分析編&#34;&gt;1. &lt;a href=&#34;https://zenn.dev/teyo0318/articles/f66157a48da548&#34;&gt;Pythonにおけるデータ分析の軽量化ライブラリ・拡張子の紹介（データ分析編）&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Q1. Rustは静的な抽象化が計量であり，apache arrow はデータ型変換やパイプラインなど動的な動作が高速という理解であっている？
+&lt;ul&gt;
+&lt;li&gt;おそらくあっている&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q2. ここで紹介されているデータ圧縮形式は可逆圧縮？
+&lt;ul&gt;
+&lt;li&gt;テーブルとして（欠損値が勝手に埋められる的な）は可逆．数値自体は不可逆？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q3. &lt;code&gt;dask-dataframe&lt;/code&gt;は&lt;code&gt;pandas&lt;/code&gt;よりもはやい？
+&lt;ul&gt;
+&lt;li&gt;A: データ規模による。並列計算なので, データが大きいほど高速化の恩恵はでてくるが, &lt;code&gt;compute()&lt;/code&gt;で元のデータに戻そうとするときに時間がかかるので, 差し引き非効率になる可能性はある.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q4. &lt;code&gt;Polars&lt;/code&gt;のデメリットである,&amp;ldquo;未クレジング&amp;quot;データの読み込みでエラーがでる&amp;hellip;というのは嬉しい？（早期エラー発見）困る？
+&lt;ul&gt;
+&lt;li&gt;A: そもそも中身がみれないので困る. &lt;code&gt;Pandas&lt;/code&gt;では柔軟にテーブルサイズを拡張できたりするので, &amp;ldquo;未クレジング&amp;quot;データでもひとまず読み込めるので助かる.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://note.com/fireducks/n/n604974763502&#34;&gt;pandasの代替案: Fireducks,Vaex, Polars, Modinを徹底比較！どれが最適？&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q5. データの圧縮やライブラリ変換の寄与が大きいデータサイズはどこから？
+&lt;ul&gt;
+&lt;li&gt;A. 1GBくらい。小さすぎると逆に変換前のサイズよりも僅かに大きくなる場合があるかも。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2-凸包gisを作るデータ構造とアルゴリズム計算幾何学&#34;&gt;2. &lt;a href=&#34;https://zenn.dev/akitek/articles/3f954f731e1ae6&#34;&gt;【凸包】GISを作るデータ構造とアルゴリズム【計算幾何学】&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Q1: 最適化の文脈で登場する「凸関数」との関係は？
+&lt;ul&gt;
+&lt;li&gt;凸の定義など、本質的には同じ。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q2: 「閉じる」判定に何か特徴はある？
+&lt;ul&gt;
+&lt;li&gt;開始点と終点とが結ばれることが分かっているので、アルゴリズム的に絶対に閉じる。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q3: 複数のポリゴンが3Dに重なった場合、どのように処理をする？
+&lt;ul&gt;
+&lt;li&gt;2つをまとめて凸包ができる。前提はポイントなので、どうしたいかに依存する。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q4: 面が曲率を持つ場合も同様のアルゴリズムで凸性が保たれるか？
+&lt;ul&gt;
+&lt;li&gt;基本的には二次元情報なので、曲率は考えない。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q5: 凸包はいつ使う？
+&lt;ul&gt;
+&lt;li&gt;点を含む最小範囲や面積の計算（生息域の計算とか？）国境/県境など？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;3&#34;&gt;3. &lt;a href=&#34;&#34;&gt;&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;運営メモ&#34;&gt;運営メモ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>📖第十一回勉強共有会</title>
       <link>https://HABStudyGroup.github.io/profile/posts/20251104/</link>
