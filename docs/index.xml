@@ -11,8 +11,164 @@
     </image>
     <generator>Hugo -- 0.147.9</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 18 Nov 2025 22:18:56 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 20:41:32 +0900</lastBuildDate>
     <atom:link href="https://HABStudyGroup.github.io/profile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>㊗️第十三回勉強共有会【特別編】</title>
+      <link>https://HABStudyGroup.github.io/profile/posts/20251125/</link>
+      <pubDate>Tue, 20 Jan 2026 20:41:32 +0900</pubDate>
+      <guid>https://HABStudyGroup.github.io/profile/posts/20251125/</guid>
+      <description>&lt;h2 id=&#34;第-13-回勉強共有会特別編&#34;&gt;第 13 回勉強共有会【特別編】&lt;/h2&gt;
+&lt;h3 id=&#34;参加者&#34;&gt;参加者&lt;/h3&gt;
+&lt;h4 id=&#34;発表者&#34;&gt;発表者&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/akitek&#34;&gt;Akitek&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/soyster&#34;&gt;masamune&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/dozenkomeda&#34;&gt;shu_matsu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;聴講者&#34;&gt;聴講者&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;なし&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;寄稿ポストのテーマ記入について&#34;&gt;寄稿ポストのテーマ・記入について&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Akitekです. この勉強共有会も第10回を超えました. 当初は続くかどうか不安な部分もありましたが, 参加者の皆様の絶え間ない努力と辛抱強さに助けられ, 第10回を超えて続けていくことができました.&lt;/li&gt;
+&lt;li&gt;第10回の記念として, 創設メンバーらに　&lt;strong&gt;「あるテーマに沿った寄稿文」&lt;/strong&gt;　をお願いし, 内容を寄せていただきました.&lt;/li&gt;
+&lt;li&gt;テーマは　**「10回を迎えて、この活動をはじめての感想」**です. それぞれの参加者がどのような思いを,考えを,経験を得てきたか,まとめていただきましょう.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;寄稿内容by-masamune&#34;&gt;寄稿内容　　by masamune&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;① 日常の変化(勉強会をやる前 / やったあと）
+&lt;ul&gt;
+&lt;li&gt;前: 仕事で取り組んでいる内容以外のことに関心を向ける習慣がなかった&lt;/li&gt;
+&lt;li&gt;後：仕事で取り組んでいる内容以外のことを調べたり、机に向かう時間を設けること習慣ができた&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;② 興味のあった記事（ほかのひと発表など）✅
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/cokey/articles/6b98e94a457caa&#34;&gt;[AIと経済学]でもっとよくなる保育政策からはじめるマーケットデザイン&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;マッチングアルゴリズムに関して、身近な例でマッチングアルゴリズムが必要な例を挙げて説明していただき大変わかりやすかったと感じた。マッチング性能と理解容易性はトレードオフであると思っていて、理論的には安定的にマッチングする手法を多くのユーザ (自治体) に取り組んでもらうためには、説明容易性を向上し、さらにより複雑な環境下でうまく動作するかをデモ等によって実証し理解してもらうことが必要であると感じた。エンドユーザと技術に関する議論ができてよかったと思う。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;③ 記事作成の裏話
+-　最初は「今自分が持っている知識を共有用にまとめ直す」目的で記事を書いていたが、それでは自分の知見の総量が増えない=新たな知見が得られないので、新たな知見の獲得とその共有を目的とする記事を書くように心がけている。
+-【没ネタ】レタスとキャベツを見分けるアルゴリズムというのを作ろうと思い立ったが、実装にまで至っていない。これは、自分自身の「物を見分ける能力」があまりないという経験に起因するもので、自分よりも賢いアルゴリズムを一から作ってみようというモチベーションである。特に記事にしていない理由もないので、近いうちに記事にしてみようと思う。&lt;/li&gt;
+&lt;li&gt;④ Best3 表示回数　記事
+&lt;ul&gt;
+&lt;li&gt;1位 : アニメーションツール「Manim」の紹介
+(&lt;a href=&#34;https://zenn.dev/soyster/articles/9812b4456cd7b5&#34;&gt;https://zenn.dev/soyster/articles/9812b4456cd7b5&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;2位 : オイラー標数 - 位相幾何学
+(&lt;a href=&#34;https://zenn.dev/soyster/articles/1ffb0bae09d198&#34;&gt;https://zenn.dev/soyster/articles/1ffb0bae09d198&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;3位 : 多様体とは - 位相幾何学
+(&lt;a href=&#34;https://zenn.dev/soyster/articles/e1179bcb3c9aab&#34;&gt;https://zenn.dev/soyster/articles/e1179bcb3c9aab&lt;/a&gt;)
+所感 : ツールに対する実装の方法のような、すぐにでも実践できるという観点で表示されているのではと想像した。実際に、何らかの実装を行う際には他の人がどのように実装しているかを調べたりすることがあるが、その実装に対する疑問への答えに相当するような記事は、読んでもらいやすいと感じた。また、私自身が興味を持っている位相幾何学について興味を持っている人がいることがわかって率直に嬉しかった。学生の方が見てくれていると仮定すると、もう少し体系的に説明する必要があると反省している。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;寄稿内容-by-shumatsu&#34;&gt;寄稿内容 by shumatsu&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;① 日常の変化（勉強会をやる前 / やったあと）
+&lt;ul&gt;
+&lt;li&gt;暇な時間が有効に活用できるようになった&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;② 興味のあった記事と個人的な追加学習
+&lt;ul&gt;
+&lt;li&gt;記事：&lt;a href=&#34;https://zenn.dev/soyster/articles/1ffb0bae09d198&#34;&gt;オイラー標数 - 位相幾何学&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;内容
+&lt;ul&gt;
+&lt;li&gt;統計手法を用いたデータ解析では，データが本来持つ情報が失われることがある．トポロジーデータアナリシス(TDA)では「データの形」をとらえることで詳細な情報を把握する．具体的なTDA手法として以下の2つがある．
+&lt;ul&gt;
+&lt;li&gt;Mapper : データのつながりに着目しグラフに変換することで低次元化する手法．低次元への射影を考えることで非交差的な部分集合に分割（クラスタリング）及びエッジ構築を行う．&lt;/li&gt;
+&lt;li&gt;Persistent homology : 各点を中心とした円を考え，この半径の大きさとホモロジー（連結成分の数・穴の数など）ベクトルとして扱うことで時系列データとして扱うことができる．このベクトルをBetti系列と呼ぶ．&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;参考
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fujitsu.com/jp/documents/about/resources/publications/magazine/backnumber/vol69-4/paper15.pdf&#34;&gt;トポロジカルデータアナリシスと時系列データ解析への応用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://speakerdeck.com/brainpadpr/wei-xiang-de-detajie-xi-tosonoying-yong-li&#34;&gt;位相的データ解析とその応用例&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;④ Best3 表示回数　記事
+&lt;ul&gt;
+&lt;li&gt;1-3位のリスト
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/link/articles/bcf866fb8cef97&#34;&gt;Nature Remo のローカルAPIまとめ 【pyhton】&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/link/articles/54c50ba3163f17&#34;&gt;discord ボイスチャットで遊んでみた&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/link/articles/4375f37d9dfca5&#34;&gt;docker+discordgoで自作discord Bot ~環境構築編&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;コメント
+&lt;ul&gt;
+&lt;li&gt;コードあるとアクセス数増える&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;寄稿内容-by-akitek&#34;&gt;寄稿内容 by Akitek&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;① 日常の変化(勉強会をやる前 / やったあと）&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📘第十四回勉強共有会</title>
+      <link>https://HABStudyGroup.github.io/profile/posts/20251209/</link>
+      <pubDate>Tue, 20 Jan 2026 20:38:21 +0900</pubDate>
+      <guid>https://HABStudyGroup.github.io/profile/posts/20251209/</guid>
+      <description>&lt;h2 id=&#34;第-14-回勉強共有会&#34;&gt;第 14 回勉強共有会&lt;/h2&gt;
+&lt;h3 id=&#34;参加者&#34;&gt;参加者&lt;/h3&gt;
+&lt;h4 id=&#34;発表者&#34;&gt;発表者&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/soyster&#34;&gt;masamune&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/dozenkomeda&#34;&gt;shu_matsu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;聴講者&#34;&gt;聴講者&lt;/h4&gt;
+&lt;h3 id=&#34;紹介記事&#34;&gt;紹介記事&lt;/h3&gt;
+&lt;h4 id=&#34;1-順位を予想するランク学習1&#34;&gt;1. &lt;a href=&#34;https://zenn.dev/soyster/articles/077cd815282c37&#34;&gt;【順位を予想する🐎】ランク学習#1&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Q1. 決定木の図にあるt,iの関係は？
+&lt;ul&gt;
+&lt;li&gt;iは入力データのインデックス，tはラウンド数&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q2. 順序の損失関数はどのように反映している？
+&lt;ul&gt;
+&lt;li&gt;Pairwiseなどを用いる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2-discord-bot-何もしていないのに壊れました&#34;&gt;2. &lt;a href=&#34;https://zenn.dev/dozenkomeda/articles/20251127_hogehoge&#34;&gt;discord bot 何もしていないのに壊れました&amp;hellip; 【解決済み】&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Q1. RADSEC自体はどのくらい一般的？
+&lt;ul&gt;
+&lt;li&gt;RADIUSは一般的。local認証サーバとして。暗号化に&amp;quot;SEC&amp;quot;が必要。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q2. CAは、環境ごとにinstallする必要がある？
+&lt;ul&gt;
+&lt;li&gt;localなどではpreinstallされているが、環境を変えると別途installする必要がある。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q3. discordに対する紹介してるエラー文は、普通は起きない？実行している内容がレア？
+&lt;ul&gt;
+&lt;li&gt;実行している内容はレアではない。エラーメッセージは人によって変わるかも。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;運営メモ&#34;&gt;運営メモ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>📖第十二回勉強共有会</title>
       <link>https://HABStudyGroup.github.io/profile/posts/20251118/</link>
@@ -95,7 +251,8 @@
 &lt;h2 id=&#34;運営メモ&#34;&gt;運営メモ&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;</description>
     </item>
     <item>
       <title>📖第十一回勉強共有会</title>
