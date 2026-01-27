@@ -11,8 +11,105 @@
     </image>
     <generator>Hugo -- 0.147.9</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 20 Jan 2026 20:41:32 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 17:44:13 +0900</lastBuildDate>
     <atom:link href="https://HABStudyGroup.github.io/profile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📕第十五回勉強共有会</title>
+      <link>https://HABStudyGroup.github.io/profile/posts/20260120/</link>
+      <pubDate>Tue, 27 Jan 2026 17:44:13 +0900</pubDate>
+      <guid>https://HABStudyGroup.github.io/profile/posts/20260120/</guid>
+      <description>&lt;h2 id=&#34;第-15-回勉強共有会&#34;&gt;第 15 回勉強共有会&lt;/h2&gt;
+&lt;h3 id=&#34;参加者&#34;&gt;参加者&lt;/h3&gt;
+&lt;h4 id=&#34;発表者&#34;&gt;発表者&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/soyster&#34;&gt;masamune&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/akitek&#34;&gt;Akitek&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;聴講者&#34;&gt;聴講者&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/soyster&#34;&gt;masamune&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/dozenkomeda&#34;&gt;shu_matsu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/akitek&#34;&gt;Akitek&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[FK]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/ai_generation&#34;&gt;sekki&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;アイスブレイク&#34;&gt;アイスブレイク&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;テーマ：『今年の抱負』&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;ground-rule&#34;&gt;Ground Rule&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;発表者の持ち時間は30分(10分以内のLT + 残りQ&amp;amp;A)&lt;/li&gt;
+&lt;li&gt;質疑応答のある方は, 先にQ&amp;amp;A文を本Markdownにて記入しておく.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;紹介記事&#34;&gt;紹介記事&lt;/h3&gt;
+&lt;h4 id=&#34;1-備忘録windows11--wsl2--docker-の構築&#34;&gt;1. &lt;a href=&#34;https://zenn.dev/akitek/articles/a3f38ffdd4cab5&#34;&gt;【備忘録】Windows11 + WSL2 + Docker の構築&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Q1: Dockerとはなんぞや？
+&lt;ul&gt;
+&lt;li&gt;A: Linuxのうえで動かすことを前提としている.&lt;/li&gt;
+&lt;li&gt;A: Linuxカーネルの上で動かす,より機能の制限されたコンテナを用意する. このコンテナを定義するのがDocker Image&lt;/li&gt;
+&lt;li&gt;A: MacのDocker Desktopは別物. つかいずらい.Linuxカーネルの代替物がDocker Desktop
+&lt;ul&gt;
+&lt;li&gt;MacのHomebrewでDocker CLIを入れる.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q2: WSLは何している？
+&lt;ul&gt;
+&lt;li&gt;A: WindowsのうえでLinuxのコマンド（OS)を動かせるようにしている&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q3: Windowsとコンテナの関係は、仮想環境 (linux) 上の仮想環境 (コンテナ) のようなイメージ？
+&lt;ul&gt;
+&lt;li&gt;dockerはlinux上で動く仮想環境をコンテナという形で (他にはVMなどがあるけど) bulidする&lt;/li&gt;
+&lt;li&gt;WSLはWindows上でlinuxの仮想環境&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q4: dockerとdocker-composeの違いは？
+&lt;ul&gt;
+&lt;li&gt;A: dockerが基本で, docker-composeは参照先のファイル(&lt;code&gt;docker-compose.yml&lt;/code&gt;)が変わっていろいろと設定.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q5: dockerを使うことのメリットは？
+&lt;ul&gt;
+&lt;li&gt;共同開発しやすい&lt;/li&gt;
+&lt;li&gt;可用性&lt;/li&gt;
+&lt;li&gt;トレーサビリティ&lt;/li&gt;
+&lt;li&gt;ネットワーク層まで含む、など&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q6: 逆にコンテナ以外の仮想環境(VMなど)を使う用途はどんなものがあるでしょうか？
+&lt;ul&gt;
+&lt;li&gt;A: VMでは,仮想環境ごとにOSを変えて組み込める. もし, 仮想環境にOSまで組み込みたいならVM.永続的に使いたくないもの.
+一方で、最近はコンテナ管理ソフトウェア（Docker）が優秀でコンテナが多く使われている。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2-天体モデリング---小惑星イトカワを可視化する&#34;&gt;2. &lt;a href=&#34;https://zenn.dev/soyster/articles/9a1f8653c75e19&#34;&gt;天体モデリング - 小惑星イトカワを可視化する&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Q1: 点群データには色がついていないと思うが, どこに色情報が入っているのか？
+&lt;ul&gt;
+&lt;li&gt;A:色の情報を入っていない. 拡張子には入っていない.法線ベクトルが効いているのかも？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q2: .stlファイルの特徴は？
+&lt;ul&gt;
+&lt;li&gt;A: Lidarからの出力をそのまま転記したもの（らしい）&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cadjapan.com/special/autodesk-concierge/useful/article/191021-01/&#34;&gt;3D／点群データの拡張子の一覧まとめ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;運営メモ&#34;&gt;運営メモ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>㊗️第十三回勉強共有会【特別編】</title>
       <link>https://HABStudyGroup.github.io/profile/posts/20251125/</link>
