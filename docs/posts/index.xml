@@ -11,8 +11,59 @@
     </image>
     <generator>Hugo -- 0.147.9</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 27 Jan 2026 17:44:13 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 20:32:16 +0900</lastBuildDate>
     <atom:link href="https://HABStudyGroup.github.io/profile/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📖第十六回勉強共有会</title>
+      <link>https://HABStudyGroup.github.io/profile/posts/20260127/</link>
+      <pubDate>Tue, 03 Feb 2026 20:32:16 +0900</pubDate>
+      <guid>https://HABStudyGroup.github.io/profile/posts/20260127/</guid>
+      <description>&lt;h2 id=&#34;第-16-回勉強共有会&#34;&gt;第 16 回勉強共有会&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;日付： 2026/1/27(火） 20:00 - 22:00&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;参加者&#34;&gt;参加者&lt;/h3&gt;
+&lt;h4 id=&#34;発表者&#34;&gt;発表者&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/akitek&#34;&gt;Akitek&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;聴講者&#34;&gt;聴講者&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/dozenkomeda&#34;&gt;shu_matsu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;アイスブレイク&#34;&gt;アイスブレイク&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;テーマ：『長期休みでやりたいこと』&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;ground-rule&#34;&gt;Ground Rule&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;発表者の持ち時間は30分(10分以内のLT + 残りQ&amp;amp;A)&lt;/li&gt;
+&lt;li&gt;質疑応答のある方は, 先にQ&amp;amp;A文を本Markdownにて記入しておく.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;紹介記事&#34;&gt;紹介記事&lt;/h3&gt;
+&lt;h4 id=&#34;1-ローカル環境で定期自動スクレイピングpython--selenium--beautifulsoup--cron&#34;&gt;1. &lt;a href=&#34;https://zenn.dev/akitek/articles/3799c3f0796a8b&#34;&gt;【ローカル環境で定期自動スクレイピング】Python + Selenium / Beautifulsoup + Cron&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Q1: Pythonのパッケージではどんな処理をしているか
+&lt;ul&gt;
+&lt;li&gt;A: HTTP(S)通信で, サイトのHTMLファイル(+α）を読み込んで, HTML要素を解析している&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q2:　それは&lt;code&gt;curl&lt;/code&gt;ではできないのか？
+&lt;ul&gt;
+&lt;li&gt;A: &lt;a href=&#34;https://zenn.dev/dozenkomeda/articles/20260127_huga&#34;&gt;これ見てください&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;運営メモ&#34;&gt;運営メモ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ホームページでのWordCloudの表示について&lt;/li&gt;
+&lt;li&gt;アカウント名の提供（情報収集対象の許諾について）&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>📕第十五回勉強共有会</title>
       <link>https://HABStudyGroup.github.io/profile/posts/20260120/</link>
