@@ -11,8 +11,63 @@
     </image>
     <generator>Hugo -- 0.147.9</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 03 Feb 2026 20:32:16 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 23:16:52 +0900</lastBuildDate>
     <atom:link href="https://HABStudyGroup.github.io/profile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📙第十七回勉強共有会</title>
+      <link>https://HABStudyGroup.github.io/profile/posts/20260203/</link>
+      <pubDate>Tue, 03 Feb 2026 23:16:52 +0900</pubDate>
+      <guid>https://HABStudyGroup.github.io/profile/posts/20260203/</guid>
+      <description>&lt;h2 id=&#34;第-17-回勉強共有会&#34;&gt;第 17 回勉強共有会&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;日付： 2026/2/03 (火） 20:00 - 22:00&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;参加者&#34;&gt;参加者&lt;/h3&gt;
+&lt;h4 id=&#34;発表者&#34;&gt;発表者&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/akitek&#34;&gt;Akitek&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;聴講者&#34;&gt;聴講者&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/dozenkomeda&#34;&gt;shu_matsu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;アイスブレイク&#34;&gt;アイスブレイク&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;テーマ：『最近の気になる記事』
+&lt;ul&gt;
+&lt;li&gt;TypescriptがJavaからGoに移行する(&lt;a href=&#34;https://zenn.dev/dinii/articles/typescript-go&#34;&gt;記事&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;LobeHub(&lt;a href=&#34;https://lexia-hp.com/blog/lobe-hub-overview&#34;&gt;記事&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;ground-rule&#34;&gt;Ground Rule&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;発表者の持ち時間は30分(10分以内のLT + 残りQ&amp;amp;A)&lt;/li&gt;
+&lt;li&gt;質疑応答のある方は, 先にQ&amp;amp;A文を本Markdownにて記入しておく.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;紹介記事&#34;&gt;紹介記事&lt;/h3&gt;
+&lt;h4 id=&#34;1-準備編fiwareで都市osスマートシティを作ってみるdocker&#34;&gt;1. &lt;a href=&#34;https://zenn.dev/akitek/articles/a834ab5ae70fb7&#34;&gt;【準備編:】Fiwareで都市OSスマートシティを作ってみる【Docker】&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Q1: Pub/Subとの違いは?(&lt;a href=&#34;https://zenn.dev/moepyxxx/articles/67dd2f59538b20&#34;&gt;参考記事&lt;/a&gt;)
+&lt;ul&gt;
+&lt;li&gt;A: Brokerの機能としては似ている. Orion Context BrokerにもRegistration/Subscriptionの機能がある.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q2:　FIWAREの優位性は？
+&lt;ul&gt;
+&lt;li&gt;A: 多様なステークホルダーがいるなかでのデータ流通の改善（スモールケースでは優位性は見えないかも）&lt;/li&gt;
+&lt;li&gt;A: FIWARE上のさまざまなコンポーネントを組みあわせて、スマートシティ機能を作れる&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;運営メモ&#34;&gt;運営メモ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;オフライン飲み会の検討&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>📖第十六回勉強共有会</title>
       <link>https://HABStudyGroup.github.io/profile/posts/20260127/</link>
