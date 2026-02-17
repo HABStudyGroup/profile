@@ -11,8 +11,70 @@
     </image>
     <generator>Hugo -- 0.147.9</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 03 Feb 2026 23:16:52 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 21:26:50 +0900</lastBuildDate>
     <atom:link href="https://HABStudyGroup.github.io/profile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>📗第十八回勉強共有会</title>
+      <link>https://HABStudyGroup.github.io/profile/posts/20260210/</link>
+      <pubDate>Tue, 17 Feb 2026 21:26:50 +0900</pubDate>
+      <guid>https://HABStudyGroup.github.io/profile/posts/20260210/</guid>
+      <description>&lt;h2 id=&#34;第-18-回勉強共有会&#34;&gt;第 18 回勉強共有会&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;日付： 2026/2/10 (火） 20:00 - 22:00&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;参加者&#34;&gt;参加者&lt;/h3&gt;
+&lt;h4 id=&#34;発表者&#34;&gt;発表者&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/innovativemind&#34;&gt;Fukuoka&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/soyster&#34;&gt;masamune&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;聴講者&#34;&gt;聴講者&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zenn.dev/dozenkomeda&#34;&gt;shu_matsu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;アイスブレイク&#34;&gt;アイスブレイク&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;ground-rule&#34;&gt;Ground Rule&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;発表者の持ち時間は30分(10分以内のLT + 残りQ&amp;amp;A)&lt;/li&gt;
+&lt;li&gt;質疑応答のある方は, 先にQ&amp;amp;A文を本Markdownにて記入しておく.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;紹介記事&#34;&gt;紹介記事&lt;/h3&gt;
+&lt;h4 id=&#34;1-shapとは&#34;&gt;1. &lt;a href=&#34;https://zenn.dev/innovativemind/articles/3d15fd34fbc424&#34;&gt;SHAPとは&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Q1. 主成分分析との違いは？
+&lt;ul&gt;
+&lt;li&gt;モデルの出力を利用して比較を行うため，予測に対する寄与をより正確に測ることができる．&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q2. Mはxの瞬時の(instance x) 次元と一致している必要がある？
+&lt;ul&gt;
+&lt;li&gt;基本的には一致している必要がある。あらかじめxの次元を減らすようなことも、応用方法としてはあるかも。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q3. 回帰係数とSHAP値の違い
+&lt;ul&gt;
+&lt;li&gt;SHAP値は, 「変数の組み合わせによる出力の変化をもとに、各変数の影響度を算定したもの」である。&lt;/li&gt;
+&lt;li&gt;３つの変数A,B,Cの各SHAP値は, 例えば,A+B+Cでの予測出力と, B+Cでの予測出力を比較して, 「Aの影響度を算定する」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2-pythonを用いた入力データ抽出ランク学習2---スクレイピング&#34;&gt;2. &lt;a href=&#34;https://zenn.dev/soyster/articles/61bf8a09819715&#34;&gt;【Pythonを用いた入力データ抽出】ランク学習#2 - スクレイピング&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Q1. スクレイピングOKなサイトですか？
+&lt;ul&gt;
+&lt;li&gt;おそらくOK.しかし、スクレイピングを試す人が多いため、普通にpytho丸出しでアクセスするとブロックされる。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q2.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;運営メモ&#34;&gt;運営メモ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>📙第十七回勉強共有会</title>
       <link>https://HABStudyGroup.github.io/profile/posts/20260203/</link>
